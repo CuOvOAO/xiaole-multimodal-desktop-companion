@@ -1,4 +1,4 @@
-# 小乐桌面伴侣
+# Xiaole Multimodal Desktop Companion（小乐多模态桌面伴侣）
 
 Windows 11 上运行的 PyQt6 桌面 AI 伴侣。文字默认使用本地 Ollama `qwen3:8b`，
 屏幕与摄像头按需使用本地 `Qwen3.5:9b`；关闭思考，失败后回退 SiliconFlow。ASR 使用 SiliconFlow。
